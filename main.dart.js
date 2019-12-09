@@ -22416,7 +22416,7 @@ $0:function(){return this.a.d=this.b},
 $S:20}
 K.vJ.prototype={
 K:function(a){var u=null,t=[N.aM]
-t=T.Qd(H.b([new K.x6(U.oO("assets/avatar.jpg",u,u).c,100,u),new T.c_(u,20,u,u),L.hm("Andrew Bell",u,u,4),new T.c_(u,20,u,u),L.hm("Flutter. Cricket. Pugs.\nLoves Traveling.",K.ae(a).y2.z,C.dy,2),new T.c_(u,40,u,u),T.qe(H.b([N.Ug(new T.c_(20,20,U.oO("assets/linkedin.png",u,u),u),L.hm("Linkedin",u,u,u),new K.vK()),N.Ug(new T.c_(20,20,U.oO("assets/github.png",u,u),u),L.hm("Github",u,u,u),new K.vL())],t),C.bD,C.kx,C.dj),new T.c_(u,40,u,u),L.hm("(Built using Flutter for Web)",K.ae(a).y2.z,C.dy,u)],t),C.bD,C.bK,C.dj)
+t=T.Qd(H.b([new K.x6(U.oO("assets/avatar.jpg",u,u).c,100,u),new T.c_(u,20,u,u),L.hm("Andrew Bell",u,u,4),new T.c_(u,20,u,u),L.hm("Flutter. Cricket. Pugs.\nLoves Traveling.",K.ae(a).y2.z,C.dy,2),new T.c_(u,40,u,u),T.qe(H.b([N.Ug(new T.c_(20,20,U.oO("assets/linkedin.png",u,u),u),L.hm("Linkedin",u,u,u),new K.vK()),N.Ug(new T.c_(20,20,U.oO("assets/github.png",u,u),u),L.hm("Github",u,u,u),new K.vL())],t),C.bD,C.kx,C.dj),new T.c_(u,40,u,u),L.hm("(Built using Flutter for Web...by me!)",K.ae(a).y2.z,C.dy,u)],t),C.bD,C.bK,C.dj)
 return new E.Hr(!0,new T.fC(C.L,u,u,new T.dw(C.o3,t,u),u),u)}}
 K.vK.prototype={
 $0:function(){return C.ao.qe(window,"https://www.linkedin.com/in/andrewrbell/","fiixed")},
